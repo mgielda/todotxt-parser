@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/csauve/todotxt-parser",
   "dependencies": {
-    "coffee-script": "^1.8.0",
+    "coffeescript": "^2.3.2",
     "underscore": "^1.7.0"
   },
   "devDependencies": {
